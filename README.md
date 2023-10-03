@@ -1,8 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Vincent Joaquin</h1>
 <h3 align="center">A passionate software developer from Los Angeles.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 👨‍💻 All of my projects are available at [https://github.com/vincentjoaquin?tab=projects](https://github.com/vincentjoaquin?tab=projects)
 
