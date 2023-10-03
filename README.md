@@ -1,8 +1,8 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcyber-gif-19309253&psig=AOvVaw3UpAbx6rtHwg48MJjvCB6G&ust=1696386414840000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDZgP_p2IEDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/vincentjoaquin/)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vincent Joaquin</h1>
 <h3 align="center">A passionate software developer from Los Angeles.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw32Vqc-K9uoXFftyDth_27_&ust=1696386125572000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCTivXo2IEDFQAAAAAdAAAAABAE">
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 👨‍💻 All of my projects are available at [https://github.com/vincentjoaquin?tab=projects](https://github.com/vincentjoaquin?tab=projects)
 
